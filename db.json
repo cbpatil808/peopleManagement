@@ -1,0 +1,23 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "chetan",
+      "dob": "2023-06-13",
+      "email": "xgxgchgj",
+      "fname": "chgdyg",
+      "mname": "xgfhf",
+      "number": 86746563657
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
